@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tobias Potel</h1>
 <h3 align="center">A passionate FrontEnd developer from Argentina (Spain soon)</h3>
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **tobiaspotel@gmail.com**
 
